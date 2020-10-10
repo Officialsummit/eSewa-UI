@@ -1,16 +1,21 @@
-# class_01
+# eSewa app UI
 
-A new Flutter project.
+A new Flutter project to implement the UI of eSewa Nepali App
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### Login Page :
+<img src="https://user-images.githubusercontent.com/34604479/95648459-10ccf700-0af7-11eb-96e7-90162e2ef837.jpg" width="300" height="400">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Registration page :
+<img src="https://user-images.githubusercontent.com/34604479/95648475-32c67980-0af7-11eb-84bb-da7e0b5cd5b4.jpg" width="300" height="400">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Home Page:
+<img src="https://user-images.githubusercontent.com/34604479/95648484-440f8600-0af7-11eb-90fe-22ee672070c8.jpg" width="300" height="400">
+
+
+
+
+
+
